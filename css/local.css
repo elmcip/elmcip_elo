@@ -1,1 +1,5 @@
 /*  CSS Overrides */
+
+body.custom-background {
+  background-image: url("../images/main-bg1.jpg");
+}
