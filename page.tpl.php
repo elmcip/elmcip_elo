@@ -52,7 +52,7 @@
                     <?php if ($site_name || $site_slogan): ?>
                         <!-- #name-and-slogan -->
                         <hgroup id="name-and-slogan">
-							<?php if ($site_name):?>
+                            <?php if ($site_name):?>
                             <h1 id="site-name"><a href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>"><?php print $site_name; ?></a></h1>
                             <?php endif; ?>
 
@@ -124,7 +124,7 @@
 
                 <?php if (theme_get_setting('slideshow_display','simplecorp')): ?>
 
-					<?php if ($is_front): ?>
+                    <?php if ($is_front): ?>
                     <!-- #slider-container -->
                     <div id="slider-container">
                         <div class="flexslider loading">
@@ -196,7 +196,7 @@
 
                 <?php if (theme_get_setting('highlighted_display','simplecorp')): ?>
 
-					<?php if ($is_front): ?>
+                    <?php if ($is_front): ?>
 
                     <div class="container clearfix">
 
@@ -318,7 +318,7 @@
 
                 <?php if (theme_get_setting('carousel_display','simplecorp')): ?>
 
-					<?php if ($is_front): ?>
+                    <?php if ($is_front): ?>
 
                     <h3>Some of Our Featured Projects</h3>
 
