@@ -589,7 +589,7 @@
                         <img src="<?php print $theme_path; ?>/images/BEL03x_c.png" alt=""/>
                       </li>
                       <li class="logo">
-                        <img src="<?php print $theme_path; ?>/images/foo.jpg" alt="">
+                        <img src="<?php print $theme_path; ?>/images/BEL03x_c.png" alt="">
                       </li>
                     </ul>
 
