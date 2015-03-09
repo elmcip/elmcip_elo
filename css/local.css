@@ -6,8 +6,21 @@ body.custom-background {
 
 .logos {}
 
+ul.logos {
+  list-style: none;
+}
+
 .logo {
   float: left;
   margin: 20px 20px 0 0;
   width: 150px;
+}
+
+#footer {
+  border-top: 1px solid #bbb;
+}
+
+#footer,
+#footer-bottom {
+  background-color: #fff;
 }

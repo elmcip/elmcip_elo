@@ -570,26 +570,33 @@
             <!-- #footer-bottom -->
             <div id="footer-bottom">
                 <div class="container clearfix">
-                    <span class="right"><a class="backtotop" href="#">↑</a></span>
-                    <?php print theme('links__system_secondary_menu', array('links' => $secondary_menu, 'attributes' => array('class' => array('menu', 'secondary-menu', 'links', 'clearfix')))); ?>
 
                     <?php if ($page['footer']) :?>
                       <?php print render($page['footer']); ?>
                     <?php endif; ?>
 
-                    /**
-                     * Foot section. Content of logos goes in the page bottom.
-                     */
                     <?php global $theme_path; ?>
                     <ul class="logos">
                       <li class="logo">
-                        <img src="<?php print $theme_path; ?>/images/nordiskkulturfond.png" alt=""/>
+                        <a href="#"><img src="<?php print $theme_path; ?>/images/nordiskkulturfond.png" alt=""/></a>
                       </li>
                       <li class="logo">
-                        <img src="<?php print $theme_path; ?>/images/BEL03x_c.png" alt=""/>
+                        <a href="#"><img src="<?php print $theme_path; ?>/images/BEL03x_c.png" alt=""/></a>
                       </li>
                       <li class="logo">
-                        <img src="<?php print $theme_path; ?>/images/BEL03x_c.png" alt="">
+                        <a href="#"><img src="<?php print $theme_path; ?>/images/BEL03x_c.png" alt=""></a>
+                      </li>
+                      <li class="logo">
+                        <a href="#"><img src="<?php print $theme_path; ?>/images/BEL03x_c.png" alt=""></a>
+                      </li>
+                      <li class="logo">
+                        <a href="#"><img src="<?php print $theme_path; ?>/images/BEL03x_c.png" alt=""></a>
+                      </li>
+                      <li class="logo">
+                        <a href="#"><img src="<?php print $theme_path; ?>/images/BEL03x_c.png" alt=""></a>
+                      </li>
+                      <li class="logo">
+                        <a href="#"><img src="<?php print $theme_path; ?>/images/BEL03x_c.png" alt=""></a>
                       </li>
                     </ul>
 
