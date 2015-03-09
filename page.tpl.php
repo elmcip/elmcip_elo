@@ -574,8 +574,24 @@
                     <?php print theme('links__system_secondary_menu', array('links' => $secondary_menu, 'attributes' => array('class' => array('menu', 'secondary-menu', 'links', 'clearfix')))); ?>
 
                     <?php if ($page['footer']) :?>
-                        <?php print render($page['footer']); ?>
+                      <?php print render($page['footer']); ?>
                     <?php endif; ?>
+
+                    /**
+                     * Foot section. Content of logos goes in the page bottom.
+                     */
+                    <?php global $theme_path; ?>
+                    <ul class="logos">
+                      <li class="logo">
+                        <img src="<?php print $theme_path; ?>/images/nordiskkulturfond.png" alt=""/>
+                      </li>
+                      <li class="logo">
+                        <img src="<?php print $theme_path; ?>/images/BEL03x_c.png" alt=""/>
+                      </li>
+                      <li class="logo">
+                        <img src="<?php print $theme_path; ?>/images/foo.jpg" alt="">
+                      </li>
+                    </ul>
 
                 </div>
             </div>
