@@ -10,7 +10,7 @@
             <!-- #pre-header -->
             <div id="pre-header" class="clearfix">
 
-                <?php $main_menu_tree = menu_tree(variable_get('menu_main_links_source', 'main-menu'));
+                <?php $main_menu_tree = menu_tree(variable_get('menu-top-menu_links_source', 'menu-top-menu'));
                   print drupal_render($main_menu_tree);
                 ?>
 
@@ -578,7 +578,7 @@
                     <?php endif; ?>
 
                     <div class="credits">
-                    Ported to Drupal by <a href="http://www.drupalizing.com">Drupalizing</a> a Project of <a href="http://www.morethanthemes.com">More than Themes</a>. Designed by <a href="http://www.s5themes.com/">Site5 WordPress Themes</a>.
+                   
                     </div>
 
                 </div>
