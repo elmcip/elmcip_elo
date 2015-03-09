@@ -574,12 +574,8 @@
                     <?php print theme('links__system_secondary_menu', array('links' => $secondary_menu, 'attributes' => array('class' => array('menu', 'secondary-menu', 'links', 'clearfix')))); ?>
 
                     <?php if ($page['footer']) :?>
-                    <?php print render($page['footer']); ?>
+                        <?php print render($page['footer']); ?>
                     <?php endif; ?>
-
-                    <div class="credits">
-                   
-                    </div>
 
                 </div>
             </div>
