@@ -578,28 +578,36 @@
                     <?php global $theme_path; ?>
                     <ul class="logos">
                       <li class="logo">
-                        <a href="#"><img src="<?php print $theme_path; ?>/images/nordiskkulturfond.png" alt=""/></a>
+                        <a href="#"><img src="<?php print $theme_path; ?>/images/elologo_for_web_white.png" alt=""/></a>
                       </li>
                       <li class="logo">
-                        <a href="#"><img src="<?php print $theme_path; ?>/images/BEL03x_c.png" alt=""/></a>
+                        <a href="#"><img src="<?php print $theme_path; ?>/images/BEL03x_bw2.png" alt=""/></a>
                       </li>
                       <li class="logo">
-                        <a href="#"><img src="<?php print $theme_path; ?>/images/BEL03x_c.png" alt=""></a>
+                        <a href="#"><img src="<?php print $theme_path; ?>/images/elmcip_logo.png" alt=""></a>
                       </li>
                       <li class="logo">
-                        <a href="#"><img src="<?php print $theme_path; ?>/images/BEL03x_c.png" alt=""></a>
+                        <a href="#"><img src="<?php print $theme_path; ?>/images/uiblogo.png" alt=""></a>
                       </li>
                       <li class="logo">
-                        <a href="#"><img src="<?php print $theme_path; ?>/images/BEL03x_c.png" alt=""></a>
+                        <a href="#"><img src="<?php print $theme_path; ?>/images/bob_logo.png" alt=""></a>
                       </li>
                       <li class="logo">
-                        <a href="#"><img src="<?php print $theme_path; ?>/images/BEL03x_c.png" alt=""></a>
+                        <a href="#"><img src="<?php print $theme_path; ?>/images/USF_logo_svhv_transparent.png" alt=""></a>
                       </li>
                       <li class="logo">
-                        <a href="#"><img src="<?php print $theme_path; ?>/images/BEL03x_c.png" alt=""></a>
+                        <a href="#"><img src="<?php print $theme_path; ?>/images/3,14-LOGO.png" alt=""></a>
+                      </li>
+                      <li class="logo">
+                        <a href="#"><img src="<?php print $theme_path; ?>/images/nordiskkulturfond.png" alt=""></a>
+                      </li>
+                      <li class="logo">
+                        <a href="#"><img src="<?php print $theme_path; ?>/images/kulturraadet_sort_stor.png" alt=""></a>
+                      </li>
+                      <li class="logo">
+                        <a href="#"><img src="<?php print $theme_path; ?>/images/FRlogoEngrgb-farger.png" alt=""></a>
                       </li>
                     </ul>
-
                 </div>
             </div>
             <!-- EOF: #footer-bottom -->
