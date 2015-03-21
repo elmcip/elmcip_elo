@@ -599,6 +599,9 @@
                         <a href="#"><img src="<?php print $theme_path; ?>/images/3,14-LOGO.png" alt=""></a>
                       </li>
                       <li class="logo">
+                        <a href="#"><img src="<?php print $theme_path; ?>/images/lydgalleriet.png" alt=""></a>
+                      </li>
+                      <li class="logo">
                         <a href="#"><img src="<?php print $theme_path; ?>/images/nordiskkulturfond.png" alt=""></a>
                       </li>
                       <li class="logo">
