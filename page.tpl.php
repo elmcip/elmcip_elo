@@ -602,9 +602,6 @@
                         <a href="#"><img src="<?php print $theme_path; ?>/images/nordiskkulturfond.png" alt=""></a>
                       </li>
                       <li class="logo">
-                        <a href="#"><img src="<?php print $theme_path; ?>/images/kulturraadet_sort_stor.png" alt=""></a>
-                      </li>
-                      <li class="logo">
                         <a href="#"><img src="<?php print $theme_path; ?>/images/FRlogoEngrgb-farger.png" alt=""></a>
                       </li>
                     </ul>
