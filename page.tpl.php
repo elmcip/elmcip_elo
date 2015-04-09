@@ -610,6 +610,9 @@
                       <li class="logo">
                         <a href="http://www.forskningsradet.no/en/Home_page/1177315753906"><img src="<?php print $theme_path; ?>/images/FRlogoEngrgb-farger.png" alt=""></a>
                       </li>
+                      <li class="logo">
+                        <a href="http://www.paris.uio.no/"><img src="<?php print $theme_path; ?>/images/pfn_logo.png" alt=""></a>
+                      </li>
                     </ul>
                 </div>
             </div>
