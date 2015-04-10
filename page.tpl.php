@@ -578,40 +578,40 @@
                     <?php global $theme_path; ?>
                     <ul class="logos">
                       <li class="logo">
-                        <a href="http://eliterature.org/"><img src="<?php print $theme_path; ?>/images/elologo_for_web_white.png" alt=""/></a>
+                        <a href="http://eliterature.org/"><img src="<?php print $theme_path; ?>/images/elologo_for_web_white.png" alt="Electronic Literature Organization"/></a>
                       </li>
                       <li class="logo">
-                        <a href="http://www.uib.no/en/rg/electronicliterature"><img src="<?php print $theme_path; ?>/images/BEL03x_bw2.png" alt=""/></a>
+                        <a href="http://www.uib.no/en/rg/electronicliterature"><img src="<?php print $theme_path; ?>/images/BEL03x_bw2.png" alt="Bergen Electronic Literature Research Group"/></a>
                       </li>
                       <li class="logo">
-                        <a href="http://elmcip.net"><img src="<?php print $theme_path; ?>/images/elmcip_logo.png" alt=""></a>
+                        <a href="http://elmcip.net"><img src="<?php print $theme_path; ?>/images/elmcip_logo.png" alt="ELMCIP"></a>
                       </li>
                       <li class="logo">
-                        <a href="http://www.uib.no/en"><img src="<?php print $theme_path; ?>/images/uiblogo.png" alt=""></a>
+                        <a href="http://www.uib.no/en"><img src="<?php print $theme_path; ?>/images/uiblogo.png" alt="University of Bergen"></a>
                       </li>
                       <li class="logo">
-                        <a href="http://bergenbibliotek.no/"><img src="<?php print $theme_path; ?>/images/bob_logo.png" alt=""></a>
+                        <a href="http://bergenbibliotek.no/"><img src="<?php print $theme_path; ?>/images/bob_logo.png" alt="Bergen Public Library"></a>
                       </li>
                       <li class="logo">
-                        <a href="http://usf.no/no/forside/"><img src="<?php print $theme_path; ?>/images/USF_logo_svhv_transparent.png" alt=""></a>
+                        <a href="http://usf.no/no/forside/"><img src="<?php print $theme_path; ?>/images/USF_logo_svhv_transparent.png" alt="USF"></a>
                       </li>
                       <li class="logo">
-                        <a href="http://www.stiftelsen314.com/"><img src="<?php print $theme_path; ?>/images/3,14-LOGO.png" alt=""></a>
+                        <a href="http://www.stiftelsen314.com/"><img src="<?php print $theme_path; ?>/images/3,14-LOGO.png" alt="Galleri 3,14"></a>
                       </li>
                       <li class="logo">
-                        <a href="http://www.lydgalleriet.no/"><img src="<?php print $theme_path; ?>/images/lydgalleriet.png" alt=""></a>
+                        <a href="http://www.lydgalleriet.no/"><img src="<?php print $theme_path; ?>/images/lydgalleriet.png" alt="Lydgalleriet"></a>
                       </li>
                       <li class="logo">
-                        <a href="http://www.oestre.no/index.php/en/"><img src="<?php print $theme_path; ?>/images/oestre_logo.png" alt=""></a>
+                        <a href="http://www.oestre.no/index.php/en/"><img src="<?php print $theme_path; ?>/images/oestre_logo.png" alt="Østre"></a>
                       </li>
                       <li class="logo">
-                        <a href="http://www.nordiskkulturfond.org/en"><img src="<?php print $theme_path; ?>/images/nordiskkulturfond.png" alt=""></a>
+                        <a href="http://www.nordiskkulturfond.org/en"><img src="<?php print $theme_path; ?>/images/nordiskkulturfond.png" alt="Nordic Culture Fund"></a>
                       </li>
                       <li class="logo">
-                        <a href="http://www.forskningsradet.no/en/Home_page/1177315753906"><img src="<?php print $theme_path; ?>/images/FRlogoEngrgb-farger.png" alt=""></a>
+                        <a href="http://www.forskningsradet.no/en/Home_page/1177315753906"><img src="<?php print $theme_path; ?>/images/FRlogoEngrgb-farger.png" alt="Norwegian Research Council"></a>
                       </li>
                       <li class="logo">
-                        <a href="http://www.paris.uio.no/"><img src="<?php print $theme_path; ?>/images/pfn_logo.png" alt=""></a>
+                        <a href="http://www.paris.uio.no/"><img src="<?php print $theme_path; ?>/images/pfn_logo.png" alt="Programme Franco-Norvègien"></a>
                       </li>
                     </ul>
                 </div>
