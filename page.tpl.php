@@ -599,7 +599,7 @@
                         <a href="http://www.stiftelsen314.com/"><img src="/<?php print $theme_path; ?>/images/3,14-LOGO.png" alt="Galleri 3,14"></a>
                       </li>
                       <li class="logo">
-                        <a href="http://www.lydgalleriet.no/"><img src="/<?php print $theme_path; ?>/images/lydgalleriet.png" alt="Lydgalleriet"></a>
+                        <a href="http://www.lydgalleriet.no/"><img src="/<?php print $theme_path; ?>/images/Lydgalleriet.png" alt="Lydgalleriet"></a>
                       </li>
                       <li class="logo">
                         <a href="http://www.oestre.no/index.php/en/"><img src="/<?php print $theme_path; ?>/images/oestre_logo.png" alt="Østre"></a>
