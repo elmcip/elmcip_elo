@@ -617,6 +617,12 @@
                       <li class="logo">
                         <a href="http://www.paris.uio.no/"><img src="<?php print $full_path; ?>/images/pfn_logo.png" alt="Programme Franco-Norvègien"></a>
                       </li>
+                      <li class="logo">
+                        <a href="http://www.hordaland.no/Hordaland-fylkeskommune/English/"><img src="<?php print $full_path; ?>/images/hfklogo.png" alt="Hordaland County Council"></a>
+                      </li>
+                      <li class="logo">
+                        <a href="https://www.bergen.kommune.no/english"><img src="<?php print $full_path; ?>/images/bk_logo.png" alt="Bergen City Council"></a>
+                      </li>
                     </ul>
                 </div>
             </div>
